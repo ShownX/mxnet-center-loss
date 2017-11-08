@@ -28,24 +28,25 @@ $ python main.py --test --prefix=center-loss
 ```
 
 ## Image
-Comparison curve:
+Comparison Accuracy curve:
 
-<img>output/curves.png</img>
+<img src="output/curves.png"></img>
+
 ### Softmax
 Training:
 
-<img>output/softmx-train.gif</img>
+<img src="output/softmax-train.gif"></img>
 
 Testing:
 
-<img>output/softmx-test.gif</img>
+<img src="output/softmax-test.gif"></img>
 
 ### Softmax + Center Loss
 Training:
 
-<img>output/center-train.gif</img>
+<img src="output/center-train.gif"></img>
 
 Testing:
 
-<img>output/center-test.gif</img>
+<img src="output/center-test.gif"></img>
 
