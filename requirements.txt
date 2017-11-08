@@ -1,0 +1,4 @@
+numpy
+mxnet-cu80
+matplotlib
+seaborn
